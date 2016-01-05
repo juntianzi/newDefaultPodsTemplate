@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'KFTestDefaultDemo_Example', :exclusive => true do
+  pod "KFTestDefaultDemo", :path => "../"
+end
+
+target 'KFTestDefaultDemo_Tests', :exclusive => true do
+  pod "KFTestDefaultDemo", :path => "../"
+
+  pod 'FBSnapshotTestCase'
+end
