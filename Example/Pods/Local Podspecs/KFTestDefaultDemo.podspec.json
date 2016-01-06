@@ -1,16 +1,16 @@
 {
   "name": "KFTestDefaultDemo",
-  "version": "0.1.0",
-  "summary": "A short description of KFTestDefaultDemo.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/KFTestDefaultDemo",
+  "version": "0.0.1",
+  "summary": "Just not meaning nimei a .",
+  "description": "* so just some description\n* mlgb format short nimalelflajdfasdjfosdajfo",
+  "homepage": "https://github.com/juntianzi",
   "license": "MIT",
   "authors": {
     "juntianzi": "chenfengde9202@163.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/KFTestDefaultDemo.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/juntianzi/KFTestDefaultDemo.git",
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "7.0"

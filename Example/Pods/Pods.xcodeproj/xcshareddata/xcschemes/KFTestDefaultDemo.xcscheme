@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'FE29130703031C8D42AA4039'
+               BlueprintIdentifier = '8B9F5B58DB498E93E82C33D0'
                BlueprintName = 'KFTestDefaultDemo'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'KFTestDefaultDemo.framework'>
