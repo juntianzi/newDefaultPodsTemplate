@@ -1,0 +1,6 @@
+framework module KFTestDefaultDemo {
+  umbrella header "KFTestDefaultDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

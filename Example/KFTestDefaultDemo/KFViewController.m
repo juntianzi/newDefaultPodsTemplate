@@ -7,7 +7,7 @@
 //
 
 #import "KFViewController.h"
-
+#import "SomeDefaultMakePodDemo.h"
 @interface KFViewController ()
 
 @end
@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [[SomeDefaultMakePodDemo new] testPrintSome];
 }
 
 - (void)didReceiveMemoryWarning

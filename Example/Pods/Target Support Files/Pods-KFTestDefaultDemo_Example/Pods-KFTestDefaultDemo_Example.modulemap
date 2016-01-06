@@ -1,0 +1,6 @@
+framework module Pods_KFTestDefaultDemo_Example {
+  umbrella header "Pods-KFTestDefaultDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
